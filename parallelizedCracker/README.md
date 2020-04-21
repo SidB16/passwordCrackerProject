@@ -1,4 +1,4 @@
-# Parallelized Password Cracker
+# Parallelized Password Cracker [in-progress :hammer: :hammer: :hammer:]
 In this project attempt to leverage the mutithreading capabiltiies of the Java SDK to accrelate the execution of this password cracker. In essence, this application cracks passwords that encrypted with SHA-256 hash function.
 
 ## You may want to test the strength of your password against this program.
